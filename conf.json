@@ -1,0 +1,12 @@
+{
+	"address": {
+		"data2rdf": "http://143.248.135.139:7401/service",
+		"triplestore": "http://143.248.135.139:8890"
+	},
+	"auth_info": {
+		"triplestore": {
+			"id": "dba",
+			"pw": "dba"
+		}
+	}
+}
